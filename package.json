@@ -1,0 +1,16 @@
+{
+  "name": "prova",
+  "version": "1.0.0",
+  "description": "",
+  "main": "prova.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.2",
+    "typescript": "^5.4.3"
+  }
+}
